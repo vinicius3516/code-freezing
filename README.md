@@ -114,7 +114,7 @@ Se o período estiver congelado e o usuário **não estiver autorizado**, o pipe
 
 ---
 
-## 📊 Exemplo de Fluxo
+> ## Exemplo de Fluxo
 
 1. PR aberto → GitHub Actions inicia.
 2. **Job `code-freeze-check`** executa o script.
