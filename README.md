@@ -2,7 +2,7 @@
 
 **Validação de congelamento de código em pipelines CI/CD**
 
-O **Code Freezing** é um script em **Python** desenvolvido no contexto do curso **Python para DevOps**, com o objetivo de **controlar períodos de congelamento de código** (code freeze) em pipelines de CI/CD.
+O **Code Freezing** é um script em **Python** desenvolvido no contexto do curso [**Python para DevOps**](https://www.udemy.com/course/python-para-devops/?couponCode=KEEPLEARNINGBR), com o objetivo de **controlar períodos de congelamento de código** (code freeze) em pipelines de CI/CD.
 
 Essa prática é comum em empresas que evitam deploys em períodos críticos, como **Black Friday, finais de ano ou eventos estratégicos**.
 
